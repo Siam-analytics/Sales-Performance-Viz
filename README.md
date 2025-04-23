@@ -1,2 +1,21 @@
-# Sales-Performance-Viz
-Interactive Tableau dashboard analyzing $10M+ sales performance. Tracks revenue, profit, lead sources, and regional trends with dynamic filters. Built with SQL + Excel data pipelines.
+# 📊 Sales Insights Dashboard
+
+**Interactive Tableau dashboard** analyzing $10.8M+ revenue with dynamic measure switching and regional filters.
+
+![Dashboard Preview](screenshots/dashboard.png)
+
+## Key Features
+- **Measure Toggle**: Switch between `Profit` and `Sales` metrics
+- **Region Filter**: Drill down by continent (Americas, Europe, Asia)
+- **Campaign Analysis**: Compare 5 marketing promotions
+- **Leaderboards**: Top performers update dynamically (e.g., Monica Bell - $358K profit)
+
+## Tech Stack
+- **Frontend**: Tableau (Parameters, Calculated Fields)
+- **Backend**: SQL aggregations, Excel data modeling
+- **Data**: 12,964 customer plans, 4 sales channels
+
+## Usage
+1. Clone repo:
+   ```bash
+   git clone https://github.com/yourusername/sales-insights.git
