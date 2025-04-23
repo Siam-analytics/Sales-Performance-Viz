@@ -2,7 +2,7 @@
 
 **Interactive Tableau dashboard** analyzing $10.8M+ revenue with dynamic measure switching and regional filters.
 
-![Dashboard Preview]([C:\Users\HP\Pictures\Screenshots](https://github.com/Siam-analytics/Sales-Performance-Viz/blob/main/Screenshot%202025-04-23%20164042.png))
+![Dashboard Preview](https://github.com/Siam-analytics/Sales-Performance-Viz/blob/main/Screenshot%202025-04-23%20164042.png)
 
 ## Key Features
 - **Measure Toggle**: Switch between `Profit` and `Sales` metrics
