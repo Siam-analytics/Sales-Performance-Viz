@@ -2,7 +2,7 @@
 
 **Interactive Tableau dashboard** analyzing $10.8M+ revenue with dynamic measure switching and regional filters.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Screenshot 2025-04-23 172439.png)
 
 ## Key Features
 - **Measure Toggle**: Switch between `Profit` and `Sales` metrics
