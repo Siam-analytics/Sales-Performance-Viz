@@ -34,7 +34,6 @@
 **Recommendation**: Shift budget toward digital channels
 
 ### 3. **Campaign Effectiveness**
-```mermaid
 barChart
     title Profit by Campaign ($K)
     bar Winter Promo : 58
