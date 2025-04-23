@@ -33,8 +33,4 @@
 
 **Recommendation**: Shift budget toward digital channels
 
-### 3. **Campaign Effectiveness**
-- barChart: title Profit by Campaign ($K)
-- Winter Promo : 58
-- Summer Deals : 49
-- Spring Promo : 42
+
