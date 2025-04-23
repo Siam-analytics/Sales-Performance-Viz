@@ -15,7 +15,5 @@
 - **Backend**: SQL aggregations, Excel data modeling
 - **Data**: 12,964 customer plans, 4 sales channels
 
-## Usage
-1. Clone repo:
-   ```bash
-   git clone https://github.com/yourusername/sales-insights.git
+## Datasets Used
+- <a href= "https://github.com/Siam-analytics/Sales-Performance-Viz/blob/main/DATA-20250322T123852Z-001.zip">SalesData</a>
