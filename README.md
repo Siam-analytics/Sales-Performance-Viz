@@ -17,3 +17,10 @@
 
 ## Datasets Used
 - <a href= "https://github.com/Siam-analytics/Sales-Performance-Viz/blob/main/DATA-20250322T123852Z-001.zip">SalesData</a>
+
+### Key Features of This README:
+1. **Visual Hierarchy**: Clear section headers with emojis
+2. **Data Transparency**: Shows exact dataset structure
+3. **Technical Showcase**: Includes real code snippets
+4. **Actionable Metrics**: Profit/revenue numbers highlighted
+5. **Multi-format**: Combines tables, mermaid, and code blocks
