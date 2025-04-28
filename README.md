@@ -2,6 +2,10 @@
 
 This repository contains a Tableau dashboard designed to provide key insights into sales performance. The dashboard visualizes various aspects of sales data, allowing for a comprehensive understanding of trends, customer behavior, and top performers.
 
+## Dashboard Screenshot
+
+![Sales Dashboard Screenshot](https://github.com/Siam-analytics/Sales-Performance-Viz/blob/main/Screenshot%202025-04-23%20233205.png)
+
 ## Key Metrics Visualized
 
 * **Total Revenue:** Displays the overall revenue generated.
@@ -16,7 +20,7 @@ This repository contains a Tableau dashboard designed to provide key insights in
 
 The dashboard includes several interactive elements that allow for more granular analysis:
 
-* **Choose Measure:** Enables the user to select different measures to analyze (e.g., Sales).
+* **Choose Measure:** Enables the user to select different measures to analyze (e.g., Sales, Profit).
 * **Select Country:** Allows filtering data by specific countries.
 * **Moving Average Month:** A parameter to adjust the period for calculating a moving average.
 * **Top N:** A parameter to define the number of top performers to display.
@@ -34,14 +38,14 @@ The dashboard includes several interactive elements that allow for more granular
 
 ## How to Use This Dashboard 
 
-1. **Explore Filters:** Use the dropdown menus and selection boxes on the right and top to filter the data based on specific criteria (e.g., a particular marketing campaign or country).
-2. **Interact with Visualizations:** Hover over data points in the charts to see more detailed information.
-3. **Adjust Parameters:** Modify the "Moving Average Month" and "Top N" parameters to change the analysis displayed.
-4. **Analyze Trends:** Observe the patterns and relationships revealed in the different visualizations.
+1.  **Explore Filters:** Use the dropdown menus and selection boxes on the right and top to filter the data based on specific criteria (e.g., a particular marketing campaign or country).
+2.  **Interact with Visualizations:** Hover over data points in the charts to see more detailed information.
+3.  **Adjust Parameters:** Modify the "Moving Average Month" and "Top N" parameters to change the analysis displayed.
+4.  **Analyze Trends:** Observe the patterns and relationships revealed in the different visualizations.
 
 ## About This Repository
 
-This repository contains the Tableau workbook (`.twb` or `.twbx` file) for the Sales Dashboard, along with any supporting data files (if included separately).
+This repository contains the Tableau workbook .`twbx` for the Sales Dashboard, part of the projects showcased on the [Siam-analytics](https://github.com/Siam-analytics) GitHub page. 
 
 ## Author
 
